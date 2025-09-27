@@ -1,3 +1,4 @@
-name,pubkey,identity
-Eularia Landroth,ecdsa-koblitz-pubkey:mtr98kany9G1XYNU74pRnfBQmaCg2FZLmc,eularia@landroth.org
-Mcallister Greenborough,ecdsa-koblitz-pubkey:mkwntSiQmc14H65YxwckLenxY3DsEpvFbe,mcallister@greenborough.org
+name,pubkey,identity,proofValue,proofCreated
+Alice Student,1abcDeFgHi...,alice@example.com,0xhashAlice,2025-09-26T12:00:00Z
+Bob Learner,1xyZtUvW...,bob@example.com,0xhashBob,2025-09-26T12:05:00Z
+Charlie Graduate,1mnOpQr...,charlie@example.com,0xhashCharlie,2025-09-26T12:10:00Z
